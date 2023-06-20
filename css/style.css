@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.buttons {
+  width: 10%;
+  margin: 5rem auto !important;
+  background-color: rgb(157, 211, 157);
+  border-radius: 100px;
+}
+.buttons .signup {
+  border: none;
+  background-color: rgb(157, 211, 157);
+  color: white;
+  font-weight: 600;
+}
+.buttons .active {
+  border: 1px solid green;
+  padding: 10px 25px;
+  border-radius: 50px;
+  background-color: green;
+  color: white;
+  font-weight: 600;
+}
+.buttons .login {
+  border: none;
+  background-color: rgb(157, 211, 157);
+  color: white;
+  font-weight: 600;
+}/*# sourceMappingURL=style.css.map */
